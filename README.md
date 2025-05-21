@@ -29,11 +29,11 @@ Flicksy is a modern, feature-rich mobile application that allows users to discov
 - **Image Handling**: Expo Image
 
 ## 📱 Screenshots
-<!-- ![App Walkthrough](Demo.gif "App Walkthrough") -->
-<video height="600" autoplay loop muted playsinline>
+![App Walkthrough](Demo.gif "App Walkthrough")
+<!-- <video height="600" autoplay loop muted playsinline>
   <source src="Demo.mp4" type="video/mp4">
   App Walkthrough
-</video>
+</video> -->
 
 ## 🔧 Implementation Details
 
