@@ -2,7 +2,7 @@
 
 Flicksy is a modern, feature-rich mobile application that allows users to discover and explore movies. Built with React Native and Expo, it provides a seamless experience for movie enthusiasts to browse trending movies, search for their favorites, and view detailed information about each film.
 
-## 🌟 Features
+## Features
 
 - **Trending Movies**: Stay updated with the latest trending movies
 - **Movie Search**: Powerful search functionality to find any movie
@@ -17,7 +17,7 @@ Flicksy is a modern, feature-rich mobile application that allows users to discov
 - **Beautiful UI**: Modern and intuitive user interface with a dark theme
 - **Responsive Design**: Optimized for both iOS and Android devices
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Framework**: React Native with Expo
 - **Navigation**: Expo Router
@@ -28,14 +28,14 @@ Flicksy is a modern, feature-rich mobile application that allows users to discov
 - **Icons**: Expo Vector Icons
 - **Image Handling**: Expo Image
 
-## 📱 Screenshots
+## App Walkthrough
 ![App Walkthrough](Demo.gif "App Walkthrough")
 <!-- <video height="600" autoplay loop muted playsinline>
   <source src="Demo.mp4" type="video/mp4">
   App Walkthrough
 </video> -->
 
-## 🔧 Implementation Details
+## Implementation Details
 
 ### Key Components
 
@@ -143,7 +143,7 @@ Flicksy is a modern, feature-rich mobile application that allows users to discov
 - Fallback UI components
 - Error boundaries implementation
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 ### Prerequisites
 - Node.js (v14 or higher)
